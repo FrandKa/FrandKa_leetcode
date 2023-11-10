@@ -1,4 +1,4 @@
-package com.kakaowo.com.test_array;
+package com.kakaowo.com.test_array.leetcode_1427;
 
 import java.util.Arrays;
 
